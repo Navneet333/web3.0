@@ -97,7 +97,7 @@ a {
 }
 
 a:hover, a:focus, a:active {
-    color: #39b54a;
+    color: #959595;
 }
 
 a:hover, a:active {
@@ -368,7 +368,7 @@ ul.disc li::before {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: #39b54a;
+    background: #959595;
     position: absolute;
     left: -17px;
     top: 11px;
@@ -377,7 +377,7 @@ ul.disc li::before {
 
 dt {
     margin: 0;
-    color: #39b54a;
+    color: #959595;
 }
 
 dd {
@@ -503,7 +503,7 @@ form,
 }
 
 .pace .pace-progress {
-    background: #39b54a;
+    background: #959595;
     position: fixed;
     z-index: 900;
     top: 0;
@@ -546,7 +546,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-    background-color: #39b54a;
+    background-color: #959595;
     width: 4px;
     height: 35px;
     border-radius: 2px;
@@ -773,7 +773,7 @@ textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-    -webkit-text-fill-color: #39b54a;
+    -webkit-text-fill-color: #959595;
     transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -1102,7 +1102,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-    color: #39b54a;
+    color: #959595;
 }
 
 .stats-tabs li a em {
@@ -1514,7 +1514,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     letter-spacing: .25rem;
     margin-bottom: 4.8rem;
     margin-top: .9rem;
-    color: #39b54a;
+    color: #959595;
 }
 
 .header-nav p {
@@ -1945,7 +1945,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-social span {
-    color: #39b54a;
+    color: #959595;
     right: 4.5rem;
     font-size: 1.3rem;
     opacity: 0;
@@ -2262,7 +2262,7 @@ html.no-csstransitions .home-content__main {
     display: block;
     width: 2px;
     height: 10.2rem;
-    background-color: #FFFFFF;
+    background-color: black;
     position: absolute;
     right: 7.2rem;
     top: 0;
@@ -2993,7 +2993,7 @@ html.no-csstransitions .home-content__main {
     display: block;
     width: 2px;
     height: 20.4rem;
-    background-color: #999999;
+    background-color: white;
     position: absolute;
     left: 50%;
     top: -10.2rem;
